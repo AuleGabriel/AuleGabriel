@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codewithaule
+- 👋 Hi, I’m aule
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning front end web development and  am currently a python back-end web developer 
+- 🌱 I’m currently l
 - 💞️ I’m looking to collaborate with  a nice  dev team
-- 📫 reach @ aulegabriel381@gmail.com
+- 📫 reach 
 
 <!---
 AuleGabriel/AuleGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
